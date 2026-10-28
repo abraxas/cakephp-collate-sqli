@@ -13,6 +13,10 @@
   &nbsp;·&nbsp;
   <a href="https://github.com/abraxas/cakephp-collate-sqli">cakephp-collate-sqli</a>
 </p>
+<p align="center">
+  Write-up: <a href="https://abraxaslabs.tech/research/cakephp-collate-sqli"><strong>https://abraxaslabs.tech/research/cakephp-collate-sqli</strong></a>
+</p>
+
 
 # cakephp-collate-sqli
 
